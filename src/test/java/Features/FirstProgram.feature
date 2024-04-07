@@ -1,6 +1,6 @@
 Feature: Application Login
 
-
+#reusability of code
 Background:
 Given setup the entries in database
 When Lanch the browser from config variables
