@@ -1,6 +1,8 @@
 Feature: Application Login
 
+#Before>>>>Background>>>>Scenario>>>>After
 
+#reusability of code
 Background:
 Given setup the entries in database
 When Lanch the browser from config variables
