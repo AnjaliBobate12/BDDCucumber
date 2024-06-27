@@ -1,0 +1,17 @@
+1. Make a folder were you will store all the work there and initize it through git
+
+command : git init
+
+2. intigrate local and remote repository
+
+command: git remote add origin "Url of remote repository" 
+
+3. to pull the code from remote repositor to local 
+command: git pull origin master
+
+4. command : git status>>>> what all file are ready to be part of git and git hub which are not added in git
+
+5. git add filename.txt
+   git add . >>> to add all the files in staging area.
+
+6. git commit -m "commiting TextFile in git repository"
